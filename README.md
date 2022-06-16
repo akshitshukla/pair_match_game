@@ -15,7 +15,7 @@
 <h><img src="https://drive.google.com/thumbnail?id=1zlQS0sBqGLn_pHhmHhWXoJWeYrn5ahcF"  width="1337" height="568"></br>
 <img src="https://drive.google.com/thumbnail?id=1IANnd_t2kBpBP2iX09tmVvIRDilPjYJZ"  width="1337" height="568"></br>  
 <img src="https://drive.google.com/thumbnail?id=1X-f5MTvHyGBJSafWo-Gd6WARdHadrRkA"  width="1337" height="568"></p>
-<img src="https://drive.google.com/thumbnail?id=1X-f5MTvHyGBJSafWo-Gd6WARdHadrRkA"  width="1337" height="568">
+<img src="https://github.com/akshitshukla/pair_match_game/blob/main/Screenshot%202022-06-16%20011938.png"  width="1337" height="568">
   
 </body>
  
